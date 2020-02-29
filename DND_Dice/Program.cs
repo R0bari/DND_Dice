@@ -49,16 +49,9 @@ namespace DND_Dice
                 Console.WriteLine("The situation impossible.");
                 return;
             }
-            else
+            else 
             {
-                for (int i = 0; i < diceCount.Count; ++i)
-                {
-                    for (int j = 0; j < diceSide.Count; ++j)
-                    {
-                        Console.Write(diceCount[i] + "d" + diceSide[j] + " ");
-                    }
-                }
-                Console.WriteLine();
+                Console.WriteLine(diceCount[0] + "d" + diceSide[0]);
             }
         }
     }
