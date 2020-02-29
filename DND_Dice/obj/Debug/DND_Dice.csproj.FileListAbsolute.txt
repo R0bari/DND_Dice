@@ -1,0 +1,6 @@
+E:\GitHub\DND_Dice\DND_Dice\bin\Debug\DND_Dice.exe.config
+E:\GitHub\DND_Dice\DND_Dice\bin\Debug\DND_Dice.exe
+E:\GitHub\DND_Dice\DND_Dice\bin\Debug\DND_Dice.pdb
+E:\GitHub\DND_Dice\DND_Dice\obj\Debug\DND_Dice.csprojAssemblyReference.cache
+E:\GitHub\DND_Dice\DND_Dice\obj\Debug\DND_Dice.exe
+E:\GitHub\DND_Dice\DND_Dice\obj\Debug\DND_Dice.pdb
